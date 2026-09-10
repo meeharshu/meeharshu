@@ -186,8 +186,8 @@
 ```
 ╭─────────────────────────────────────────────────────────╮
 │                                                         │
-│   "The best way to predict the future is to build it."  │
-│                                        — Alan Kay       │
+│   "Don’t be the best. Be the one they can’t compare."  │
+│                                                         │
 │                                                         │
 ╰─────────────────────────────────────────────────────────╯
 ```
