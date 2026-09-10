@@ -18,10 +18,10 @@
 ┌──────────────────────────────────────────────────────────────┐
 │                                                              │
 │   > System.boot("developer_profile")                         │
-│   > Loading modules... ████████████████████████████ 100%     │
+│   > Loading modules... ██████████████████████ 100%           │
 │                                                              │
 │   IDENTITY    : Student • Builder • AI-First Developer       │
-│   MISSION     : Exploring Python, DSA, ML & AI               │
+│   CURRENTLY   : Exploring Python, DSA, ML & AI               │
 │   STATUS      : Building and learning along the way          │
 │   OPEN TO     : Collaborations • Open Source • Internships   │
 │                                                              │
