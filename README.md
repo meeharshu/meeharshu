@@ -5,8 +5,7 @@
 <!-- ═══════════════════════════════ HERO ═══════════════════════════════ -->
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f15b36f93.gif" width="500" />
-  <br><br>
+
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=500&height=45&lines=%24+whoami" alt="Typing SVG" />
 </div>
 
@@ -41,7 +40,7 @@
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=1.5&section=header" width="100%">
 
 <!-- ═══════════════════════════════ TECH STACK ═══════════════════════════════ -->
 
@@ -94,7 +93,7 @@
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=1.5&section=header" width="100%">
 
 <!-- ═══════════════════════════════ STATS ═══════════════════════════════ -->
 
@@ -107,7 +106,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meeharshu&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=06b6d4&text_color=a1a1aa&icon_color=a855f7&ring_color=06b6d4" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=meeharshu&theme=github_dark" width="49%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=meeharshu&theme=transparent&hide_border=true&background=00000000&ring=06b6d4&fire=a855f7&currStreakLabel=06b6d4&sideLabels=a1a1aa&currStreakNum=06b6d4&sideNums=a855f7&dates=525252" width="49%" />
 </div>
 
@@ -158,18 +157,19 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=meeharshu&bg_color=00000000&color=a855f7&line=06b6d4&point=ffffff&hide_border=true&area=true&area_color=6366f1" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=meeharshu&theme=github_dark" width="100%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=meeharshu&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=meeharshu&theme=github_dark" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=meeharshu&theme=github_dark&utcOffset=5.5" width="49%" />
 </div>
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=1.5&section=header" width="100%">
 
 <!-- ═══════════════════════════════ VIBES ═══════════════════════════════ -->
 
