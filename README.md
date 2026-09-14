@@ -15,7 +15,12 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,c,python,wordpress,figma,postman,linux,java,mongodb,mysql,androidstudio,react,nodejs,tailwindcss,typescript,supabase,swift,kotlin,angular,docker,gcp,notion" />
 
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=meeharshu&theme=dark" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats">
+  <img
+    src="https://streak-stats.demolab.com?user=meeharshu&theme=dark"
+    alt="GitHub Streak"
+  />
+</a>
 <p align="center">
   <img src="https://pacman.abozanona.me?username=meeharshu" />
 </p>
