@@ -27,11 +27,3 @@
 
 ## Education:
 <img src="https://styles.redditmedia.com/t5_2vnw3/styles/communityIcon_wshm5n8a6v7c1.png" width="20" /> BITS Pilani: Bachelors in Computer Science 2025 - 2029  
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=meeharshu&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Harsh" width="100%">
-
->
