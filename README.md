@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, Welcome in</h1>
 <h3 align="center"> Have a look around. </h3>
 
-<img src="<a href="[https://gifyu.com/image/butsP"><img src="https://s15.gifyu.com/images/butsP.gif" alt="Programmer animating cozy bedroo… 20260921203523" border="0" /></a>](https://s15.gifyu.com/i[..."  />
+<img src="https://s15.gifyu.com/images/butsP.gif" alt="Programmer animating cozy bedroom" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meeharshu&label=Profile%20views&color=0e75b6&style=flat" alt="hanush" /> </p>
 
