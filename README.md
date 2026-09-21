@@ -2,7 +2,7 @@
 <h3 align="center"> Have a look around. </h3>
 
 <img
-  src="https://s15.gifyu.com/images/butsP.gif"
+  src="profile/butsP.gif"
   alt="Programmer animating cozy bedroom"
   width="100%"
 >
