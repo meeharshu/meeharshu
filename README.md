@@ -1,12 +1,7 @@
 <h1 align="center">Hey there, Welcome in</h1>
 <h3 align="center"> Have a look around. </h3>
 
-<img
-  src="https://raw.githubusercontent.com/meeharshu/meeharshu/main/profile/butsP.gif"
-  alt="Programmer animating cozy bedroom"
-  width="100%"
-  height="auto"
->
+<img src="https://raw.githubusercontent.com/meeharshu/meeharshu/main/profile/butsP.gif" alt="Programmer animating cozy bedroom" width="100%" height="auto" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meeharshu&label=Profile%20views&color=0e75b6&style=flat" alt="hanush" /> </p>
 
