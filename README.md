@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meeharshu&label=Profile%20views&color=0e75b6&style=flat" alt="hanush" /> </p>
 
-[![My Portfolio](https://img.shields.io/badge/My_Portfolio-1F2937?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://portfolio-1-plum-iota.vercel.app/)
+[![My Portfolio](https://img.shields.io/badge/My_Portfolio-1F2937?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://www.harshu.online/)
 
 <h3 align="left">Let's Connect</h3>
 
