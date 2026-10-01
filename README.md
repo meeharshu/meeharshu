@@ -3,7 +3,7 @@
 
 <img src="https://raw.githubusercontent.com/meeharshu/meeharshu/main/profile/butsP.gif" alt="Programmer animating cozy bedroom" width="100%" height="auto" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=meeharshu&label=Profile%20views&color=0e75b6&style=flat" alt="hanush" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=meeharshu&label=Profile%20views&color=0e75b6&style=flat" alt="meeharshu" /> </p>
 
 [![My Portfolio](https://img.shields.io/badge/My_Portfolio-1F2937?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://www.harshu.online/)
 
